@@ -43,7 +43,6 @@
 | :---: | :---: | :---: |
 | <kbd><img width="240" alt="localhost_7498_(iPhone 14 Pro Max) (3)" src="https://github.com/user-attachments/assets/9833dbba-ea62-41c2-90d9-ac70aa5ac417" /></kbd> | <kbd><img width="240" alt="localhost_7498_(iPhone 14 Pro Max) (4)" src="https://github.com/user-attachments/assets/ef0bfd9d-d780-4763-be3a-480e01848575" /></kbd> | <kbd><img width="240" alt="localhost_7498_(iPhone 14 Pro Max) (5)" src="https://github.com/user-attachments/assets/cbd33cbd-3f37-48d2-bfb7-e728aa2db284" /></kbd> |
 
-*(หมายเหตุ: นำลิงก์รูปภาพของแอปพลิเคชันมาใส่แทนที่ตัวอักษร "URL_รูปภาพ_...")*
 
 ---
 
