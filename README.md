@@ -37,7 +37,7 @@
 
 | 🚀 Splash Screen | 🚍 หมวดการเดินทาง | 🚑 หมวดฉุกเฉิน |
 | :---: | :---: | :---: |
-| <kbd><img width="240" alt="localhost_13184_(iPhone 14 Pro Max)" src="https://github.com/user-attachments/assets/326927c3-28ff-4f96-ada0-903905a4419b" /></kbd>| <kbd><img width="240" alt="localhost_7498_(iPhone 14 Pro Max) (1)" src="https://github.com/user-attachments/assets/7b74134a-c0ac-4d55-9e5b-0abfc21a53d8" /></kbd> | <kbd><img width="240" alt="localhost_7498_(iPhone 14 Pro Max) (2)" src="https://github.com/user-attachments/assets/d41ee448-b984-4878-81e4-939818265734" /></kbd> |
+| <kbd><img width="240" alt="localhost_1298_(iPhone 14 Pro Max) (1)" src="https://github.com/user-attachments/assets/5137168a-5970-4cfa-b4f2-ddbd3b2f145b" /></kbd> | <kbd><img width="240" alt="localhost_7498_(iPhone 14 Pro Max) (1)" src="https://github.com/user-attachments/assets/7b74134a-c0ac-4d55-9e5b-0abfc21a53d8" /></kbd> | <kbd><img width="240" alt="localhost_7498_(iPhone 14 Pro Max) (2)" src="https://github.com/user-attachments/assets/d41ee448-b984-4878-81e4-939818265734" /></kbd> |
 
 | 🏦 หมวดธนาคาร | 💡 หมวดสาธารณูปโภค | 👩‍💻 About Developer |
 | :---: | :---: | :---: |
